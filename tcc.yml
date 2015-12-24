@@ -1,0 +1,89 @@
+# Live rendered version at:
+#   http://canvas.create-build-execute.com/#github=ligthyear/help-as-a-service
+#
+# ----
+# the name of the project
+name: "HaaS – Help as a Service"
+
+# Describe the project in a one-line elevator pitch
+tagline: the support desk for community open source projects
+
+# Which renderer to use?
+renderer: tcc
+
+# Version of the document
+version: 0.6
+
+# last change
+date: Dec 24th, 2015 – 15:33
+
+
+problems:
+# Please describe the problems you want to solve
+  - FLOSS projects are underfunded
+  - support for OS projects is often less than optimally organised
+  - FLOSS support doesn't scale
+  - FLOSS support is too unreliable for business
+  - developer support for FLOSS burns people out => the more popular your projects, the more of a burden it becomes
+
+
+
+solutions:
+# what is the proposed solution to them?
+  - an integrated help-desk platform specially designed for OS projects and
+    their distributed working styles to provide professional paid support to anyone, who wants it
+
+alternatives:
+# what other alternatives are people currently using (even in the physical world) to scratch that itch?
+  - community support
+  - support company
+
+purpose:
+# what is the higher purpose behind this project?
+  - enable more FLOSS projects to offer professional grade support
+    for their project and make money to sustain the continuous
+    work on it while improving the end-support of their tool
+
+impact_metrics:
+# what are key metrics showing the impact you are making towards the purpose?
+  - projects on platforms
+  - paying customers
+  - income (per project)
+  - tickets on platform
+  - workload shared within project
+
+benefactors:
+# who are you targeting? Who is the solution for? What will help you mkae that impact?
+  - FLOSS Developers
+  - FLOSS Development organisations
+
+partners:
+# Anyone you want to single out because they will be the first to take this solution and help you get it there?
+  - Discussion on pybee
+  - Twitter Followers/people asked about it direct
+  - FLOSS Organisations (Apache, Django Foundation)?
+
+channels:
+# how will the benefactors and partners learn about the project/product/service?
+  - Pybee Discussion
+  - Twitter // persoanl Social media
+  - Big Headlight FLOSS conferences (PyCon?)
+  - Metric-Badges & Sign-Up-Banner for Projects
+
+build:
+# what does it cost? In both MONEY AND TIME? Put the highest costs first (time is more expensive than money)
+  eta: beta at pyCon US?
+  costs:
+    - initial build (based on beavy)
+    - hosting
+    - review and refining
+  coverage:
+    - personal time of Ben
+
+execute:
+  costs:
+   - continuos development
+   - maintanance costs
+   - accounting
+  coverage:
+   - 5% Transaction fee on platform
