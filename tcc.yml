@@ -15,7 +15,7 @@ renderer: tcc
 version: 0.6
 
 # last change
-date: Dec 24th, 2015 – 15:33
+date: Dec 25th, 2015 – 11:04
 
 
 problems:
@@ -35,7 +35,8 @@ solutions:
 
 alternatives:
 # what other alternatives are people currently using (even in the physical world) to scratch that itch?
-  - community support
+  - community support (forums)
+  - stack overflow
   - support company
 
 purpose:
